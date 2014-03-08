@@ -7,8 +7,9 @@ Reads a reputation report from the resources directory, scans each line, and sum
 
 Categories:
 -----------
-Answers  
-Questions  
+Answer upvotes  
+Question upvotes
+Accepted answers  
 Bounties  
 Association Bonus  
 Edit Suggestions  
