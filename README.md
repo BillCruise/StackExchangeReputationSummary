@@ -7,11 +7,11 @@ Reads a reputation report from the resources directory, scans each line, and sum
 
 Categories:
 -----------
-Answers
-Questions
-Bounties
-Association Bonus
-Edit Suggestions
+Answers  
+Questions  
+Bounties  
+Association Bonus  
+Edit Suggestions  
 
 
 Copy your reputation report from a Stack Exchange site (e.g., http://stackoverflow.com/reputation) and save it as a text file in resources/reputation-report.txt.
